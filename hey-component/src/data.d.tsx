@@ -16,5 +16,11 @@ export const columns: any = [
         dataIndex: 'age',
         key: 'age',
         align: 'center',
+    },
+    {
+        title: '歌曲',
+        dataIndex: 'favouriteSong',
+        key: 'favouriteSong',
+        align: 'center',
     }
 ]
